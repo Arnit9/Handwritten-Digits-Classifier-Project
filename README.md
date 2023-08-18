@@ -32,9 +32,9 @@ As a machine learning engineer, I've developed a proof of concept for the OCR sy
 
 ## Suggestions for Further Enhancement 🚀
 
-To further improve the project, the following recommendations can be considered:
+To further improve the project, the following recommendations has been considered:
 
-- Implement a **Validation Set** during training to monitor accuracy at each epoch and prevent overfitting.
-- Explore more advanced architectures like CNNs and experiment with different network architectures for even higher accuracy.
+- Implemented a **Validation Set** during training to monitor accuracy at each epoch and prevent overfitting.
+- Explored more advanced architectures like CNNs and experimented with different network architectures for even higher accuracy.
 
 Feel free to reach out for any questions or suggestions. Happy coding! 🤖📚
